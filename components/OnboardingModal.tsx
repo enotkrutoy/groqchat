@@ -139,17 +139,17 @@ const OnboardingModal = ({ isOpen, onClose }) => {
                             </p>
                             <ul className="list-disc pl-5 mb-4 text-zinc-300">
                                 <li>
-                                    Follow my GitHub repository:{" "}
+                                    Follow docsgroqcloud:{" "}
                                     <a
-                                        href="https://github.com/unclecode/groqcakk"
+                                        href="https://docs-chat.groqcloud.com"
                                         className="text-blue-400 hover:underline"
                                     >
                                         GitHub Repo
                                     </a>
                                 </li>
                                 <li>
-                                    Follow my on X (Twitter):{" "}
-                                    <a href="https://twitter.com/unclecode" className="text-blue-400 hover:underline">
+                                    Follow my on X (Mixtral):{" "}
+                                    <a href="https://groq-vercel-integration.vercel.app" className="text-blue-400 hover:underline">
                                         @YourTwitter
                                     </a>
                                 </li>
